@@ -1,4 +1,4 @@
-# Project-Python-House-Price-Prediction-EDA-Linear-Regression
+# Project-Python-Code-Review-House-Price-Prediction-EDA-Linear-Regression
 A Group Python Project:
 - Muhammad Rayhan Satria
 - Muhammad Irvan Arfirza
@@ -6,7 +6,7 @@ A Group Python Project:
 
 ## Author: @WISNU ANGGARA
 
-## A Mentee Group Project from IBM Advance AI @ Infinite Learning. In this project, We Explained a Code from Keggle that can do House Price Prediction using EDA + Linear Regression. 
+## A Mentee Group Project from IBM Advance AI @ Infinite Learning. In this project, We has Reviewed a Code from Keggle that can do House Price Prediction using EDA + Linear Regression. 
 
 
 
